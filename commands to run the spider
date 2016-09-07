@@ -1,0 +1,1 @@
+scrapy crawl scrooge -o data.csv -t csv
